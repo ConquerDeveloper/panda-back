@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "privacidades",
+  "info": {
+    "singularName": "privacidad",
+    "pluralName": "privacidades",
+    "displayName": "Privacidad"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "pagina": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pagina.pagina"
+    }
+  }
+}

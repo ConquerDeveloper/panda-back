@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "redes_sociales",
+  "info": {
+    "singularName": "red-social",
+    "pluralName": "redes-sociales",
+    "displayName": "redes-sociales",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "icono": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "despachos",
+  "info": {
+    "singularName": "despacho",
+    "pluralName": "despachos",
+    "displayName": "Despachos"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "pagina": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pagina.pagina"
+    }
+  }
+}

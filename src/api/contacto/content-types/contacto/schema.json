@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "contactos",
+  "info": {
+    "singularName": "contacto",
+    "pluralName": "contactos",
+    "displayName": "contacto"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contenido": {
+      "type": "richtext"
+    }
+  }
+}

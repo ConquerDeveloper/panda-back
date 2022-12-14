@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "imagen_carritos",
+  "info": {
+    "singularName": "imagen-carrito",
+    "pluralName": "imagen-carritos",
+    "displayName": "Imagen_carrito"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imagen": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

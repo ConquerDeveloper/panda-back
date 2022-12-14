@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "politicas",
+  "info": {
+    "singularName": "politica",
+    "pluralName": "politicas",
+    "displayName": "Politicas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "pagina": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pagina.pagina"
+    }
+  }
+}

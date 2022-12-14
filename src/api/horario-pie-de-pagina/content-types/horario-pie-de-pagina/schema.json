@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "horario_pie_de_paginas",
+  "info": {
+    "singularName": "horario-pie-de-pagina",
+    "pluralName": "horario-pie-de-paginas",
+    "displayName": "horario_pie_de_pagina"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "horario": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "ubicaciones",
+  "info": {
+    "singularName": "ubicacion",
+    "pluralName": "ubicaciones",
+    "displayName": "Ubicacion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contenido": {
+      "type": "richtext"
+    }
+  }
+}
