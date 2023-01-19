@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- *  inicio controller
+ * inicio controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;

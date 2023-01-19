@@ -12,18 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "documento": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "titulo": {
+      "type": "string"
+    },
+    "pdf_url": {
       "type": "string"
     }
   }
