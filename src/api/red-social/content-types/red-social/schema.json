@@ -18,15 +18,8 @@
     "nombre": {
       "type": "string"
     },
-    "icono": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": false
+    "icono_url": {
+      "type": "string"
     }
   }
 }
