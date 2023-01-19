@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * pago service.
+ * pago service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;

@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * certificacion service.
+ * certificacion service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;

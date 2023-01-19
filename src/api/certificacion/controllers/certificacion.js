@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- *  certificacion controller
+ * certificacion controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;

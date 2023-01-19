@@ -1,25 +1,19 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "pagos",
   "info": {
     "singularName": "pago",
     "pluralName": "pagos",
-    "displayName": "Pagos"
+    "displayName": "Pagos",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "imagenes": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": true
+    "imagen_url": {
+      "type": "string"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "certificaciones",
   "info": {
     "singularName": "certificacion",
@@ -12,16 +12,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "imagenes": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
+    "imagen_url": {
+      "type": "string"
     }
   }
 }

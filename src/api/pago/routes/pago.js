@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * pago router.
+ * pago router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;

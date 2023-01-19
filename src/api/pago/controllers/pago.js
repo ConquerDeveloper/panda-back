@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- *  pago controller
+ * pago controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;

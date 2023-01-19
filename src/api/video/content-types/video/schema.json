@@ -15,18 +15,10 @@
     "link": {
       "type": "string"
     },
-    "imagen": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "titulo": {
+      "type": "string"
+    },
+    "imagen_url": {
       "type": "string"
     }
   }
