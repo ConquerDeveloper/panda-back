@@ -4,7 +4,8 @@
   "info": {
     "singularName": "prueba-balistica",
     "pluralName": "pruebas-balisticas",
-    "displayName": "pruebas_balisticas"
+    "displayName": "pruebas_balisticas",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true

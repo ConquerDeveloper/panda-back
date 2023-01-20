@@ -23,6 +23,23 @@
     },
     "contenido": {
       "type": "richtext"
+    },
+    "imagen_pie_de_pagina": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "texto_pie_de_pagina": {
+      "type": "string"
+    },
+    "link_imagen_pie_de_pagina": {
+      "type": "string"
     }
   }
 }
